@@ -1,0 +1,7 @@
+# environment directory
+venv/
+.idea/
+
+#dotenv
+.env
+
